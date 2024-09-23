@@ -3,7 +3,7 @@ title: AI-Powered Cost Estimation in Intermodal Logistics - Coming Soon
 subtitle: Data Science Project
 layout: default
 modal-id: 1
-date: 2014-09-23
+date: 2024-09-23
 img: move_intermodal_cover.jpg
 thumbnail: move_intermodal_thumbnail.jpg
 alt: image-alt

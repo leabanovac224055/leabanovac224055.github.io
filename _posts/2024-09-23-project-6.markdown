@@ -3,7 +3,7 @@ title: Dashboard Analysis of Speeding-Related Traffic Fatalities in the USA
 subtitle: Data Visualization and Analysis
 layout: default
 modal-id: 6
-date: 2014-07-18
+date: 2024-09-23
 img: dashboard.png
 thumbnail: dashboard_thumbnail.png
 alt: image-alt
