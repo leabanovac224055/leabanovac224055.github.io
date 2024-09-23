@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: AI-Powered Plant Root Segmentation and Robotic Control
+subtitle: Computer Vision, Deep Learning, and Robotics for Plant Phenotyping
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: npec.png
+thumbnail: npec_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2014
+client: Netherlands Plant Eco-phenotyping Centre (NPEC)
+category: Artificial Intelligence, Computer Vision, Robotics
+description: Developed an AI-powered system integrating computer vision and robotics for segmenting plant roots from images and controlling a liquid-handling robot for precise plant inoculation. The project utilized deep learning for root segmentation and reinforcement learning for robot control, with deliverables including image annotation, segmentation models, and integrated robotic systems.
 
 ---
