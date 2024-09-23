@@ -1,0 +1,17 @@
+---
+title: AI-Powered Cost Estimation in Intermodal Logistics - Coming Soon
+subtitle: Data Science Project
+layout: default
+modal-id: 1
+date: 2014-09-23
+img: move_intermodal_cover.jpg
+thumbnail: move_intermodal_cover_thumbnail.jpg
+alt: image-alt
+project-date: September 2014
+client: Move Intermodal
+category: Data Science, Machine Learning
+description: As a Data Scientist, I am currently developing a machine learning model to predict shipping costs for Move Intermodal, a leading intermodal logistics provider. The project leverages historical data from Snowflake and Matillion to create accurate cost predictions based on variables such as distance, cargo type, and transportation modes. The goal is to improve operational efficiency, enhance decision-making, and identify cost-saving opportunities across multimodal transport systems.
+
+
+
+---
