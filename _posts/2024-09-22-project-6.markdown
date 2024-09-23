@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2024-09-22
 img: dashboard.png
-thumbnail: dashboard_thumbnail.jpg
+thumbnail: dashboard_thumbnail.png
 alt: image-alt
 project-date: November 2022
 client: no client
