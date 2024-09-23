@@ -5,10 +5,10 @@ layout: default
 modal-id: 6
 date: 2024-09-22
 img: dashboard.png
-thumbnail: dashboard_thumbnail.png
+thumbnail: dashboard_thumbnail.jpg
 alt: image-alt
 project-date: November 2022
-client: No client
+client: -
 category: Data Science & AI
 description: I developed an interactive dashboard to analyze the impact of speeding on traffic fatalities in the USA, using data on age, gender, road conditions, and alcohol involvement.
 
