@@ -1,5 +1,5 @@
 ---
-title: AI-Powered Cost Estimation in Intermodal Logistics - Coming Soon
+title: AI-Powered Cost Estimation in Intermodal Logistics
 subtitle: Data Science Project
 layout: default
 modal-id: 1
