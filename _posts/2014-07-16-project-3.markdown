@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: NLP Emotion Classification Pipeline for TV Show Analysis
 subtitle: Website Design
 layout: default
 modal-id: 3
@@ -8,8 +8,8 @@ img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Banijay Benelux
+category: Artificial Intelligence, Natural Language Processing 
+description: In this project, I developed a Natural Language Processing (NLP) pipeline to classify emotions from speech data in the TV series *Expeditie Robinson*. The pipeline converted speech-to-text and tagged emotions like happiness, sadness, anger, surprise, fear, and disgust, providing valuable insights to Banijay Benelux for content classification. The project involved data cleaning, feature engineering, model selection, and evaluation, as well as fine-tuning models on Banijay's labeled data to optimize emotion tagging accuracy.
 
 ---
