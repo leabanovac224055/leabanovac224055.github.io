@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-09-23
 img: move_intermodal_cover.jpg
-thumbnail: move_intermodal_cover_thumbnail.jpg
+thumbnail: move_intermodal_thumbnail.jpg
 alt: image-alt
 project-date: September 2014
 client: Move Intermodal
