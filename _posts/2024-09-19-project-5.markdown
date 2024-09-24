@@ -3,7 +3,7 @@ title: Startup Framework
 subtitle: Website Design
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2024-09-19
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt

@@ -3,7 +3,7 @@ title: AI-Powered Plant Root Segmentation and Robotic Control
 subtitle: Computer Vision, Deep Learning, and Robotics for Plant Phenotyping
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2024-09-20
 img: npec.png
 thumbnail: npec_thumbnail.png
 alt: image-alt

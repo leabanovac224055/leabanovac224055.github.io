@@ -3,7 +3,7 @@ title: Cloud Deployment for Computer Vision
 subtitle:  MLOps and Azure Deployment
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2024-09-22
 img: npec_d.jpg
 thumbnail: npec_d_thumbnail.jpg
 alt: image-alt
