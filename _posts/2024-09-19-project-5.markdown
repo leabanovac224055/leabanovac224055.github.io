@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: AI Impact Study at BUas
+subtitle: Analytics Translator  
 layout: default
 modal-id: 5
 date: 2024-09-19
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: hotel.png
+thumbnail: hotel_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2023
+client: Breda University of Applied Sciences (BUas)
+category: Data Science, AI Research  
+description: This project focused on understanding the impact, possibilities, and risks of Artificial Intelligence (AI) for students, staff, and the organization at BUas. Through a mixed-method study, including surveys and interviews, I explored AI attitudes, knowledge, acceptance, and perceived impact across various BUas domains. The findings were presented in a research paper, policy paper, and a conference poster, offering actionable insights for AI integration and strategy at BUas.
 
 ---
