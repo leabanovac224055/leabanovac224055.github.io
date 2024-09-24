@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Cloud Deployment for Computer Vision
+subtitle:  MLOps and Azure Deployment
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: npec_d.jpg
+thumbnail: npec_d_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: June2024
+client: Netherlands Plant Eco-phenotyping Centre (NPEC)
+category: MLOps & Cloud Application Development
+description: Developed and deployed production-ready code for a computer vision system. This project involved creating a scalable Python package for plant organ segmentation and landmark detection, deploying the system on Microsoft Azure, and implementing MLOps best practices. Key features included automated training pipelines, continuous model retraining, CI/CD integration, and secure API and CLI access, ensuring the model's scalability and maintainability in a cloud environment.
 
 ---
