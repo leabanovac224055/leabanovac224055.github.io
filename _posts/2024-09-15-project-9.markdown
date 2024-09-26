@@ -1,0 +1,15 @@
+---
+title: Dashboard Analysis of Speeding-Related Traffic Fatalities in the USA
+subtitle: Data Visualization and Analysis
+layout: default
+modal-id: 9
+date: 2024-09-15
+img: dashboard.png
+thumbnail: dashboard_thumbnail.png
+alt: image-alt
+project-date: November 2022
+client: SDG Hub@BUas
+category: Data Science & AI
+description: I developed an interactive dashboard to analyze the impact of speeding on traffic fatalities in the USA, using data on age, gender, road conditions, and alcohol involvement.
+
+---
