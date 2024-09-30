@@ -280,11 +280,11 @@ header {
 
 header .intro-text {
     padding-top: 100px; /* Adjust this value */
-    padding-bottom: 150px; /* Increase this value to move the button lower */
+    padding-bottom: 200px; /* Increase this value to move the button lower */
 }
 
 .btn-xl {
-    margin-top: 100px; /* Add this line if needed to adjust the button spacing */
+    margin-top: 200px; /* Add this line if needed to adjust the button spacing */
 }
 
 header .intro-text .intro-lead-in {
