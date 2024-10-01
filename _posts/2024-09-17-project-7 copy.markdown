@@ -1,15 +1,15 @@
 ---
-title: Smart Parking App Prototype for Breda
-subtitle: Data-Driven Parking Optimization Prototype
+title: FreshCheck – AI-Powered Food Spoilage Detection App
+subtitle: Assisting Elderly Users with Food Safety
 layout: default
 modal-id: 7
 date: 2024-09-17
 img: parking.png
 thumbnail: parking_thumbnail.png
 alt: image-alt
-project-date: June 2023
-client: Breda Municipality
-category: Data Science & AI
-description:  I contributed to the development of a smart parking app prototype aimed at reducing parking congestion in Breda. The app, built using Proto.io, features dynamic pricing, GPS navigation to parking spots, and real-time availability tracking. My contributions spanned exploratory data analysis using Python and SQL as well as designing and building the app prototype. The app prototype was built to optimize parking resources and improve the user experience for both tourists and residents.
+project-date: April 2023
+client: University Project
+category: AI & Machine Learning
+description: I developed an AI-powered food spoilage detection app prototype designed to help elderly people determine whether food, particularly bread, is spoiled or safe to eat. The app uses a CNN model for image classification and includes reminders to consume food before expiration. The project involved market research, dataset analysis, model development using Python and Keras, and designing a user-friendly prototype in Proto.io. User testing and feedback were incorporated to enhance usability and ensure continuous learning by allowing users to label the images and improve the model's performance over time.
 
 ---
