@@ -285,7 +285,7 @@ header .intro-text {
 
 .btn-xl {
     position: absolute;
-    bottom: -5px; /* Distance from the bottom of the section */
+    bottom: 100px; /* Distance from the bottom of the section */
     left: 50%;
     transform: translateX(-50%); /* Center the button horizontally */
 }
