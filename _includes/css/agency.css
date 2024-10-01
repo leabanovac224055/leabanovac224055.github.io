@@ -283,6 +283,10 @@ header .intro-text {
     padding-bottom: 300px; /* Increase this value to move the button lower */
 }
 
+.btn-xl {
+    margin-top: 70px; /* Add this line if needed to adjust the button spacing */
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
