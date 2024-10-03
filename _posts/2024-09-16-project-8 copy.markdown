@@ -1,5 +1,5 @@
 ---
-title: Smart Parking App Prototype for Breda
+title: Block B
 subtitle: Data-Driven Parking Optimization Prototype
 layout: default
 modal-id: 8
