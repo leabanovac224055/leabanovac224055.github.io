@@ -458,6 +458,18 @@ section h3.section-subheading {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}'
+
+@media(min-width: 1200px) {
+    #portfolio .portfolio-items-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 16px;
+    }
+
+    #portfolio .portfolio-item {
+        width: 100%;
+    }
 }
 
 .timeline {
