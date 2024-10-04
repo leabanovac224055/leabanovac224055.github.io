@@ -4,8 +4,8 @@ subtitle: Assisting Elderly Users with Food Safety
 layout: default
 modal-id: 7
 date: 2024-09-17
-img: parking.png
-thumbnail: parking_thumbnail.png
+img: food.png
+thumbnail: food_thumbnail.png
 alt: image-alt
 project-date: April 2023
 client: University Project
