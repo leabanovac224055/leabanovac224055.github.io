@@ -1,15 +1,14 @@
 ---
-title: Block B
-subtitle: Data-Driven Parking Optimization Prototype
+title: AI Model for Predicting TV Show Ratings
+subtitle: Data-Driven TV Viewership Prediction Model
 layout: default
 modal-id: 8
 date: 2024-09-16
 img: parking.png
 thumbnail: parking_thumbnail.png
 alt: image-alt
-project-date: June 2023
-client: Breda Municipality
+project-date: January 2023
+client: Banijay Group
 category: Data Science & AI
-description:  I contributed to the development of a smart parking app prototype aimed at reducing parking congestion in Breda. The app, built using Proto.io, features dynamic pricing, GPS navigation to parking spots, and real-time availability tracking. My contributions spanned exploratory data analysis using Python and SQL as well as designing and building the app prototype. The app prototype was built to optimize parking resources and improve the user experience for both tourists and residents.
-
+description:  I developed a machine learning model to predict TV show ratings for Banijay Group's Dutch talk show Op1. The model utilized Twitter engagement metrics and show content data to forecast ratings. My contributions included data cleaning, exploratory data analysis, and the development of a supervised learning regression model using Python, Jupyter Notebooks, and Power BI. Despite modest prediction accuracy, the model provided actionable insights into the connection between Twitter activity and TV ratings. Additionally, I incorporated a section on AI ethics, analyzing Banijay’s corporate policies on transparency, diversity, and responsible data handling.
 ---
