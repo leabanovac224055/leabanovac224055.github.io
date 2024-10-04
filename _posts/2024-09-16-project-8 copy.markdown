@@ -4,8 +4,8 @@ subtitle: Data-Driven TV Viewership Prediction Model
 layout: default
 modal-id: 8
 date: 2024-09-16
-img: parking.png
-thumbnail: parking_thumbnail.png
+img: banijay.png
+thumbnail: banijay_thumbnail.png
 alt: image-alt
 project-date: January 2023
 client: Banijay Group
