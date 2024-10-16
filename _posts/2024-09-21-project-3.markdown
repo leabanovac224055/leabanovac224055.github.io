@@ -1,6 +1,6 @@
 ---
 title: NLP Emotion Classification Pipeline for TV Show Analysis
-subtitle: Website Design
+subtitle: Speech-to-Text Emotion Tagging for TV Content
 layout: default
 modal-id: 3
 date: 2024-09-21
